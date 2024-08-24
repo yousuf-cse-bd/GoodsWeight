@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GoodsWeight</string>
+    <string name="edit_text1">পণ্যের পুরো ওজন কত?</string>
+    <string name="edit_text2">কত কেজিতে এক মণ?</string>
+    <string name="edit_text3">এক (১) মণের দাম কত?</string>
+    <string name="result_button">রেজাল্ট</string>
+    <string name="clear_button">অল ক্লিয়ার</string>
+    <string name="title_text">App Quit</string>
+    <string name="message_text"> এক্সিট করতে চান???</string>
+    <string name="exception_message">কোনো ফিল্ড খালি রাখা যাবে নাহ!</string>
+    <string name="title_result_dialog">ফলাফল পাকী ওজন ও দাম</string>
+    <string name="all_edit_text_empty">সব মান মুছে ফেলা হয়েছে।</string>
+
+</resources>
